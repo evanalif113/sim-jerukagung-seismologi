@@ -50,11 +50,11 @@ export default function Footer() {
                   <Facebook className="h-5 w-5" />
                   <span className="sr-only">Facebook</span>
                 </a>
-                <a href="#" className="bg-white/10 hover:bg-white/20 p-2 rounded-full">
+                <a href="https://x.com/jeris2518" className="bg-white/10 hover:bg-white/20 p-2 rounded-full">
                   <Twitter className="h-5 w-5" />
                   <span className="sr-only">Twitter</span>
                 </a>
-                <a href="https://www.instagram.com/jeris_seismologi/" className="bg-white/10 hover:bg-white/20 p-2 rounded-full">
+                <a href="https://www.instagram.com/jeris_meterologi/" className="bg-white/10 hover:bg-white/20 p-2 rounded-full">
                   <Instagram className="h-5 w-5" />
                   <span className="sr-only">Instagram</span>
                 </a>
